@@ -7,4 +7,17 @@
 
 body {
   font-family: sans-serif;
+  background: #41e1ba;
+  transition: background-color 300ms ease-in-out;
+  line-height: 1.5;
+}
+
+.container {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.working {
+  background: #ef5d50;
+
 }
